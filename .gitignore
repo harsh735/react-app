@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+dataset/
+fer2013.h5
+fer2013_weights.h5
+node_modules
